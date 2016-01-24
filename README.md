@@ -22,3 +22,8 @@ This cheat will need a directory, created in C:\, which will contain all the INI
 - RCS
 - Box ESP
 - Bone ESP
+
+## CHANGELOG:
+
+- 1.0
+  - Public release
