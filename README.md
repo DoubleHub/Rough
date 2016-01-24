@@ -1,5 +1,6 @@
 # Rough v1.0
-My first public CS:GO cheat.
+My first public CS:GO cheat. It doesn't work on any kind of GUI, only on classic cmd shell. That's why it's called "Rough".
+However, it's my first release, so don't blame me so much! :)
 
 ## Warning!
 
