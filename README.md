@@ -24,6 +24,13 @@ This cheat will need a directory, created in C:\, which will contain all the INI
 - Box ESP
 - Bone ESP
 
+## CREDITS:
+I must say thanks to all of these people:
+
+WasserEsser - Made inVincibleLib, which I used as a base for my EdgeLibrary, which I used in order to make this cheat.
+
+PhY1z - Made BHOPSKILZ, an open-source cheat made with educational purposes, infact from it I've learned how to make the Glow ESP, the SlowAim and the Radar.
+
 ## CHANGELOG:
 
 - 1.0
